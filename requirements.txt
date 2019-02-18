@@ -1,0 +1,13 @@
+cycler==0.10.0
+dbfread==2.0.7
+kiwisolver==1.0.1
+matplotlib==3.0.2
+numpy==1.16.1
+pandas==0.24.1
+pathlib==1.0.1
+pyparsing==2.3.1
+pyshp==2.1.0
+python-dateutil==2.8.0
+pytz==2018.9
+Shapely==1.6.4.post2
+six==1.12.0
